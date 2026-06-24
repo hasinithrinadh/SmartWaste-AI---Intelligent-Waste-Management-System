@@ -1,0 +1,1 @@
+# SmartWaste-AI---Intelligent-Waste-Management-System
