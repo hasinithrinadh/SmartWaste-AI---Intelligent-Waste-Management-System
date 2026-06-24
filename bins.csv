@@ -1,0 +1,11 @@
+bin_id,location,fill_level,last_collected,waste_type,fill_rate_per_day
+B001,Main Street Market,78,2026-06-10,General,8
+B002,Park Avenue,45,2026-06-12,Recyclable,5
+B003,City Hospital,92,2026-06-08,Hazardous,12
+B004,Central Park,33,2026-06-13,Organic,4
+B005,School Zone,60,2026-06-11,General,7
+B006,Railway Station,88,2026-06-09,General,10
+B007,Tech Park,25,2026-06-14,Recyclable,3
+B008,Residential Block A,55,2026-06-11,Organic,6
+B009,Bus Terminal,70,2026-06-10,General,9
+B010,Shopping Mall,40,2026-06-12,Recyclable,5
